@@ -1,3 +1,3 @@
 # Verilog
 
-Generic verilog codes.
+# PMOD Kypd and PMOD ssd code in sevensegment folder
