@@ -1,1 +1,1 @@
-# Verilog
+# FPGA programming using Verilog
